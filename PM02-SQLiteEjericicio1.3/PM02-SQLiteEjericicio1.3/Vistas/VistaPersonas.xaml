@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PM02_SQLiteEjericicio1._3.Vistas.VistaPersonas">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="id" IsVisible="false"></Entry>
+            <Label Text="nombres"></Label>
+            <Entry x:Name="nombres" Placeholder="Ingrese Sus Nombres"></Entry>
+
+            <Label Text="apellidos"></Label>
+            <Entry x:Name="apellidos" Placeholder="Ingrese Sus Apellidos"></Entry>
+
+            <Label Text="edad"></Label>
+            <Entry x:Name="edad" Placeholder="Ingrese Su Edad" Keyboard="Numeric"></Entry>
+
+            <Label Text="direccion"></Label>
+            <Entry x:Name="direccion" Placeholder="Ingrese Su Direccion"></Entry>
+
+            <Label Text="correo"></Label>
+            <Entry x:Name="correo" Placeholder="Ingrese Su Correo" Keyboard="Email"></Entry>
+
+            <Button x:Name="btnguardar" Text="SALVAR" Clicked="guardar_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

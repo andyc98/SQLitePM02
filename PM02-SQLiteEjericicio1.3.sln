@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM02-SQLiteEjericicio1.3.Android", "PM02-SQLiteEjericicio1.3\PM02-SQLiteEjericicio1.3.Android\PM02-SQLiteEjericicio1.3.Android.csproj", "{9C1A852E-1117-4D75-81D0-D713D3E5F54B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM02-SQLiteEjericicio1.3", "PM02-SQLiteEjericicio1.3\PM02-SQLiteEjericicio1.3\PM02-SQLiteEjericicio1.3.csproj", "{3B56DAB7-EFE7-4185-B852-539B7D350ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1A852E-1117-4D75-81D0-D713D3E5F54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1A852E-1117-4D75-81D0-D713D3E5F54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1A852E-1117-4D75-81D0-D713D3E5F54B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9C1A852E-1117-4D75-81D0-D713D3E5F54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1A852E-1117-4D75-81D0-D713D3E5F54B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1A852E-1117-4D75-81D0-D713D3E5F54B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3B56DAB7-EFE7-4185-B852-539B7D350ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B56DAB7-EFE7-4185-B852-539B7D350ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B56DAB7-EFE7-4185-B852-539B7D350ED4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3B56DAB7-EFE7-4185-B852-539B7D350ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B56DAB7-EFE7-4185-B852-539B7D350ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B56DAB7-EFE7-4185-B852-539B7D350ED4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E878666-A91E-4861-99BC-3FB588B63DF6}
+	EndGlobalSection
+EndGlobal
